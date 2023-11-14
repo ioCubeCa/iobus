@@ -10,4 +10,5 @@ It's a simple for controlling motor, LED 8*8, and RGB module.
   * Port>/dev/XX.usbseriaXX  or in termial command: ls /dev/tty*
    ![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/Portimg.png)
    ![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/terminalimg.png)
+4. Upload your program to ioCube device.
 
